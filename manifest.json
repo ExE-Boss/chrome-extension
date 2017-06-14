@@ -33,5 +33,13 @@
     "16": "images/icon_16.png",
     "48": "images/icon_48.png",
     "128": "images/icon_128.png"
+  },
+  "applications": 
+  {
+    "gecko": 
+    {
+      "id": "firefox@mega.co.nz",
+      "strict_min_version": "46.0"
+    }
   }
 }
